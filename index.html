@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>منصة الدروس التعليمية</title>
+  <link href="https://fonts.googleapis.com/css2?family=Kufam:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- مكتبة Telegram WebApp -->
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+
+  <style>
+    :root {
+      --bg-color: #121212;
+      --card-color: #1e1e1e;
+      --text-color: #f0f0f0;
+      --title-color: #FFD700;
+      --button-bg-color: #2c3e50;
+      --button-text-color: #FFD700;
+      --button-border-color: #34495e;
+      --back-button-color: #6c757d;
+      --border-radius: 8px;
+    }
+
+    body {
+      font-family: 'Kufam', sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 20px 6px;
+      text-align: center;
+      min-height: 100vh;
+    }
+
+    .title {
+      color: var(--title-color);
+      font-weight: 700;
+      font-size: clamp(2rem, 5vw, 3rem);
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      font-size: 1.2rem;
+      margin-bottom: 12px;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      width: 100%;
+      max-width: 400px;
+      margin: auto;
+    }
+
+    .button {
+      background-color: var(--button-bg-color);
+      color: var(--button-text-color);
+      border: 2px solid var(--button-border-color);
+      border-radius: var(--border-radius);
+      padding: 15px;
+      font-size: 1.1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease, transform 0.2s ease;
+      width: 100%;
+      box-sizing: border-box;
+      text-decoration: none;
+      display: flex;
+      justify-content: center;
+    }
+
+    .button:hover {
+      background-color: #34495e;
+      transform: translateY(-2px);
+    }
+
+    .back-button {
+      background-color: var(--back-button-color);
+      border-color: #5a6268;
+      color: white;
+    }
+
+    .back-button:hover {
+      background-color: #5a6268;
+    }
+
+    /* صفحة المحتوى */
+    #contentPage {
+      display: none;
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw; height: 100vh;
+      background-color: var(--bg-color);
+      z-index: 1000;
+      overflow: hidden;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .content-iframe {
+      width: 100%;
+      height: calc(100% - 60px);
+      border: none;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1 class="title">منصة الدروس التعليمية</h1>
+  <h2 class="subtitle">نهائي</h2>
+
+  <!-- زر حذف الكاش -->
+  <button class="button" style="background:#a00;border-color:#d33;color:white;margin-bottom:15px;"
+          onclick="clearHistoryAndRefresh()">🗑️ حذف الكاش / تحديث</button>
+
+  <div id="mainContent" class="container"></div>
+  <div id="contentPage"></div>
+
+  <script>
+    const mainContentDiv = document.getElementById('mainContent');
+    const contentPageDiv = document.getElementById('contentPage');
+    let lessonsData = null;
+    let historyStack = [];
+
+    async function loadLessons() {
+      try {
+        const response = await fetch('lessons.json?nocache=' + Date.now());
+        lessonsData = await response.json();
+        renderAxes();
+      } catch (e) {
+        mainContentDiv.innerHTML = `<p style="color:red">تعذر تحميل الملف</p>`;
+      }
+    }
+
+    function renderAxes() {
+      historyStack = [{ type: 'axes' }];
+      mainContentDiv.style.display = 'flex';
+      contentPageDiv.style.display = 'none';
+      mainContentDiv.innerHTML = '';
+
+      for (const axisId in lessonsData.axes) {
+        const axis = lessonsData.axes[axisId];
+        const btn = document.createElement('button');
+        btn.className = 'button';
+        btn.textContent = axis.name + " 📖";
+        btn.onclick = () => renderLessons(axisId, axis.name);
+        mainContentDiv.appendChild(btn);
+      }
+    }
+
+    function renderLessons(axisId, axisName, pushHistory = true) {
+      if (pushHistory) historyStack.push({ type: 'lessons', axisId, axisName });
+
+      mainContentDiv.innerHTML = '';
+      mainContentDiv.style.display = 'flex';
+      contentPageDiv.style.display = 'none';
+
+      const back = document.createElement('button');
+      back.className = 'button back-button';
+      back.textContent = '◀️ رجوع';
+      back.onclick = () => navigateBack();
+      mainContentDiv.appendChild(back);
+
+      for (const lessonId in lessonsData.axes[axisId].lessons) {
+        const lesson = lessonsData.axes[axisId].lessons[lessonId];
+        const btn = document.createElement('button');
+        btn.className = 'button';
+        btn.textContent = lesson.name + " 📖";
+        btn.onclick = () => renderElements(axisId, lessonId);
+        mainContentDiv.appendChild(btn);
+      }
+    }
+
+    function renderElements(axisId, lessonId, pushHistory = true) {
+      if (pushHistory) historyStack.push({ type: 'elements', axisId, lessonId });
+
+      mainContentDiv.innerHTML = '';
+      mainContentDiv.style.display = 'flex';
+      contentPageDiv.style.display = 'none';
+
+      const back = document.createElement('button');
+      back.className = 'button back-button';
+      back.textContent = '◀️ رجوع';
+      back.onclick = () => navigateBack();
+      mainContentDiv.appendChild(back);
+
+      const elements = lessonsData.axes[axisId].lessons[lessonId].elements;
+
+      for (const elementId in elements) {
+        const el = elements[elementId];
+        const btn = document.createElement('button');
+        btn.className = 'button';
+        btn.textContent = el.name + " 📖";
+        btn.onclick = () => showContent(el);
+        mainContentDiv.appendChild(btn);
+      }
+    }
+
+    function showContent(element, pushHistory = true) {
+      // فتح موضوع داخل تيليغرام فوراً
+      if (element.link && element.link.startsWith("https://t.me/")) {
+        Telegram.WebApp.openTelegramLink(element.link);
+        return;
+      }
+
+      if (pushHistory) historyStack.push({ type: 'content' });
+
+      mainContentDiv.style.display = 'none';
+      contentPageDiv.style.display = 'block';
+      contentPageDiv.innerHTML = '';
+
+      const back = document.createElement('button');
+      back.className = 'button back-button';
+      back.textContent = '◀️ رجوع';
+      back.onclick = () => navigateBack();
+      contentPageDiv.appendChild(back);
+
+      if (element.link && element.link !== 'غير مرفوع') {
+        const iframe = document.createElement('iframe');
+        iframe.className = 'content-iframe';
+        iframe.src = element.link;
+        contentPageDiv.appendChild(iframe);
+      } else {
+        const msg = document.createElement('p');
+        msg.style.color = 'white';
+        msg.textContent = '⚠️ المحتوى غير متوفر حالياً';
+        contentPageDiv.appendChild(msg);
+      }
+    }
+
+    function navigateBack() {
+      if (historyStack.length <= 1) {
+        renderAxes();
+        return;
+      }
+
+      historyStack.pop();
+      const last = historyStack[historyStack.length - 1];
+
+      if (last.type === 'axes') {
+        renderAxes();
+      } else if (last.type === 'lessons') {
+        renderLessons(last.axisId, last.axisName, false);
+      } else if (last.type === 'elements') {
+        renderElements(last.axisId, last.lessonId, false);
+      }
+    }
+
+    // زر حذف الكاش / إعادة التحديث
+    function clearHistoryAndRefresh() {
+      historyStack = [];
+      lessonsData = null;
+      mainContentDiv.innerHTML = '';
+      contentPageDiv.innerHTML = '';
+      location.reload(true);
+    }
+
+    window.onload = loadLessons;
+  </script>
+
+</body>
+</html>

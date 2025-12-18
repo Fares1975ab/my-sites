@@ -1,0 +1,1914 @@
+{
+  "axes": {
+    "preliminary_acquisitions": {
+      "name": "المكتسبات القبلية",
+      "lessons": {
+        "generalities": {
+          "name": "عموميات",
+          "elements": {
+            "fractions": {
+              "name": "الكسور",
+              "type": "عنصر",
+              "link": "https://t.me/+9mrygOgb3Vk3Nzk0"
+            },
+            "powers": {
+              "name": "الأسس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "roots": {
+              "name": "الجذور",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "notable_identities_expansion": {
+              "name": "المتطابقات الشهيرة نشر",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "factoring": {
+              "name": "تحليل",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "absolute_value": {
+              "name": "القيمة المطلقة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "enclosure_rules": {
+              "name": "قواعد الحصر",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "numerical_functions": {
+          "name": "الدوال العددية",
+          "elements": {
+            "introduction": {
+              "name": "مدخل",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "parity": {
+              "name": "الزوجية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "reference_functions": {
+              "name": "الدوال المرجعية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "center_of_symmetry": {
+              "name": "مركز التناظر",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "axis_of_symmetry": {
+              "name": "محور التناظر",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "rational_functions_decomposition": {
+              "name": "تفكيك الدوال الناطقة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "graph_from_another_graph": {
+              "name": "انشاء بيان انطلاقا من بيان آخر",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "polynomials": {
+          "name": "كثيرات الحدود",
+          "elements": {
+            "definition": {
+              "name": "تعريف",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "solve_linear_equation": {
+              "name": "حل معادلة من الدرجة الأولى",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "solve_quadratic_equation": {
+              "name": "حل معادلة من الدرجة الثانية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "euclidean_division": {
+              "name": "القسمة الإقليدية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "sign_first_degree": {
+              "name": "إشارة كثير حدود من الدرجة الأولى",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "sign_second_degree": {
+              "name": "إشارة كثير حدود من الدرجة الثانية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "factorize_second_degree": {
+              "name": "تحليل كثير حدود من الدرجة الثانية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "factorize_third_degree": {
+              "name": "تحليل كثير حدود من الدرجة الثالثة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "solve_system_sum_product": {
+              "name": "حل جملة معادلتين من الشكل مجموع وجداء",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "trigonometry": {
+          "name": "حساب المثلثات",
+          "elements": {
+            "introduction": {
+              "name": "مدخل",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "unit_circle": {
+              "name": "الدائرة المثلثية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "associated_angles": {
+              "name": "دساتير الزوايا المرفقة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "conversion_formulas": {
+              "name": "دساتير التحويل",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "limits": {
+      "name": "حساب النهايات",
+      "lessons": {
+        "introduction": {
+          "name": "مدخل",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/87"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/90"
+            }
+          }
+        },
+        "indeterminate_forms": {
+          "name": "حالات عدم التعيين",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/109"
+            },
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/115"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/117"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/119"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/121"
+            },
+            "exercise_5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/179"
+            }
+          }
+        },
+        "asymptotes": {
+          "name": "المستقيمات المقاربة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/193"
+            },
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/195"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/197"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/199"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/201"
+            },
+            "exercise_5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/203"
+            },
+            "exercise_6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/205"
+            }
+          }
+        },
+        "continuity": {
+          "name": "الاستمرارية",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/271"
+            },
+            "exercise_1": {
+              "name": "المثال 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/291"
+            },
+            "exercise_2": {
+              "name": "المثال 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/297"
+            },
+            "exercise_3": {
+              "name": "المثال 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/299"
+            },
+            "exercise_4": {
+              "name": "المثال 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/301"
+            }
+          }
+        },
+        "intermediate_value_theorem": {
+          "name": "مبرهنة القيم المتوسطة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/310"
+            },
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/312"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/314"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/316"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/318"
+            }
+          }
+        },
+        "squeeze_theorem": {
+          "name": "حساب النهايات بالحصر",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/356"
+            },
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/358"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/360"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/362"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/364"
+            }
+          }
+        },
+        "composite_limits": {
+          "name": "النهايات المركبة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/367"
+            },
+            "exercises": {
+              "name": "الأمثلة متنوعة",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/369"
+            }
+          }
+        }
+      }
+    },
+    "differentiability": {
+      "name": "الاشتقاقية",
+      "lessons": {
+        "derivative_number": {
+          "name": "العدد المشتق",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/371"
+            },
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/374"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/376"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/378"
+            }
+          }
+        },
+        "differentiability": {
+          "name": "قابلية الاشتقاق",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/389"
+            },
+            "exercises": {
+              "name": "أمثلة متنوعة ",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/392"
+            }
+          }
+        },
+        "common_derivatives": {
+          "name": "حساب المشتقات المألوفة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/408"
+            },
+            "exercises": {
+              "name": "أمثلة",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/412"
+            }
+          }
+        },
+        "composite_derivatives": {
+          "name": "حساب المشتقات المركبة",
+          "elements": {
+            "case_1": {
+              "name": "الحالة1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/417"
+            },
+            "case_2": {
+              "name": "الحالة 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/420"
+            },
+            "case_3": {
+              "name": "الحالة 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/422"
+            },
+            "case_4_5": {
+              "name": "الحالة 4 و5",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/424"
+            },
+            "general_case": {
+              "name": "الحالة العامة",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/426"
+            }
+          }
+        },
+        "derivative_operations": {
+          "name": "عمليات على المشتقات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/472"
+            },
+            "exo1": {
+              "name": "المثال 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/510"
+            },
+            "exo2": {
+              "name": "المثال 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/515"
+            },
+            "exo3": {
+              "name": "المثال 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/517"
+            },
+            "exo4": {
+              "name": "المثال 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/519"
+            },
+            "exo5": {
+              "name": "المثال 5",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/521"
+            },
+            "exo6": {
+              "name": "المثال 6",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/523"
+            },
+            "exo7": {
+              "name": "المثال 7",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/525"
+            },
+            "exo8": {
+              "name": "المثال 8",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/527"
+            },
+            "exo9": {
+              "name": "المثال 9",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/529"
+            },
+            "exo10": {
+              "name": "المثال 10",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/531"
+            },
+            "exo11": {
+              "name": "المثال 11",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/533"
+            },
+            "exo12": {
+              "name": "المثال 12",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/535"
+            },
+            "exo13": {
+              "name": "المثال 13",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/537"
+            },
+            "exo14": {
+              "name": "المثال 14",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/539"
+            }
+          }
+        },
+        "tangent_line": {
+          "name": "المستقيم المماس",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/567"
+            },
+            "exo1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/586"
+            },
+            "exo2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/588"
+            },
+            "exo3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/590"
+            },
+            "exo4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/592"
+            },
+            "exo5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/594"
+            },
+            "exo6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/596"
+            },
+            "exo7": {
+              "name": "التمرين 7",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/598"
+            },
+            "exo8": {
+              "name": "التمرين 8",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/600"
+            },
+            "exo9": {
+              "name": "التمرين 9",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/602"
+            },
+            "exo10": {
+              "name": "التمرين 10",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/604"
+            }
+          }
+        },
+        "inflection_point": {
+          "name": "نقطة الانعطاف",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/584"
+            }
+          }
+        },
+        "graph_construction": {
+          "name": "انشاء التمثيلات البيانية",
+          "elements": {
+            "exo": {
+              "name": "إنشاء مستقيم",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/679"
+            },
+            "exo1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/682"
+            },
+            "exo2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/684"
+            },
+            "exo3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/686"
+            },
+            "exo4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/688"
+            },
+            "exo5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/690"
+            },
+            "exo6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/692"
+            },
+            "exo7": {
+              "name": "التمرين 7",
+              "type": "عنصر",
+              "link": "https://t.me/c/3380136352/703"
+            }
+          }
+        },
+        "graphical_analysis": {
+          "name": "المناقشة البيانية",
+          "elements": {
+            "horizontal": {
+              "name": "المناقشة الأفقية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "oblique": {
+              "name": "المناقشة المائلة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "rotational": {
+              "name": "المناقشة الدورانية",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "kiraabayania": {
+          "name": "قراءة بيانية",
+          "elements": {
+            "cour": {
+              "name": "معلومات عامة ",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exo1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exo2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "composition": {
+          "name": "التركيب",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "problems_hub": {
+      "name": "مسائل",
+      "lessons": {
+        "rational_functions_problems": {
+          "name": "مسائل الدوال الناطقة",
+          "elements": {
+            "problem_1": { "name": "المسألة 1", "type": "عنصر", "link": "https://t.me/c/3072863321/2245" },
+            "problem_2": { "name": "المسألة 2", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_3": { "name": "المسألة 3", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_4": { "name": "المسألة 4", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_5": { "name": "المسألة 5", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_6": { "name": "المسألة 6", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_7": { "name": "المسألة 7", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_8": { "name": "المسألة 8", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_9": { "name": "المسألة 9", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_10": { "name": "المسألة 10", "type": "عنصر", "link": "غير مرفوع" }
+          }
+        },
+        "logarithmic_problems": {
+          "name": "مسائل الدوال اللوغارتمية",
+          "elements": {
+            "problem_1": { "name": "المسألة 1", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_2": { "name": "المسألة 2", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_3": { "name": "المسألة 3", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_4": { "name": "المسألة 4", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_5": { "name": "المسألة 5", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_6": { "name": "المسألة 6", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_7": { "name": "المسألة 7", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_8": { "name": "المسألة 8", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_9": { "name": "المسألة 9", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_10": { "name": "المسألة 10", "type": "عنصر", "link": "غير مرفوع" }
+          }
+        },
+        "irrational_functions_problems": {
+          "name": "مسائل الدوال الصماء",
+          "elements": {
+            "problem_1": { "name": "المسألة 1", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_2": { "name": "المسألة 2", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_3": { "name": "المسألة 3", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_4": { "name": "المسألة 4", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_5": { "name": "المسألة 5", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_6": { "name": "المسألة 6", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_7": { "name": "المسألة 7", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_8": { "name": "المسألة 8", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_9": { "name": "المسألة 9", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_10": { "name": "المسألة 10", "type": "عنصر", "link": "غير مرفوع" }
+          }
+        },
+        "absolute_value_problems": {
+          "name": "مسائل دوال القيمة المطلقة",
+          "elements": {
+            "problem_1": { "name": "المسألة 1", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_2": { "name": "المسألة 2", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_3": { "name": "المسألة 3", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_4": { "name": "المسألة 4", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_5": { "name": "المسألة 5", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_6": { "name": "المسألة 6", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_7": { "name": "المسألة 7", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_8": { "name": "المسألة 8", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_9": { "name": "المسألة 9", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_10": { "name": "المسألة 10", "type": "عنصر", "link": "غير مرفوع" }
+          }
+        },
+        "graphical_reading_problems": {
+          "name": "مسائل القراءة البيانية",
+          "elements": {
+            "problem_1": { "name": "المسألة 1", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_2": { "name": "المسألة 2", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_3": { "name": "المسألة 3", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_4": { "name": "المسألة 4", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_5": { "name": "المسألة 5", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_6": { "name": "المسألة 6", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_7": { "name": "المسألة 7", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_8": { "name": "المسألة 8", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_9": { "name": "المسألة 9", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_10": { "name": "المسألة 10", "type": "عنصر", "link": "غير مرفوع" }
+          }
+        },
+        "intermediate_functions_problems": {
+          "name": "مسائل الدوال الوسيطية",
+          "elements": {
+            "problem_1": { "name": "المسألة 1", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_2": { "name": "المسألة 2", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_3": { "name": "المسألة 3", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_4": { "name": "المسألة 4", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_5": { "name": "المسألة 5", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_6": { "name": "المسألة 6", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_7": { "name": "المسألة 7", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_8": { "name": "المسألة 8", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_9": { "name": "المسألة 9", "type": "عنصر", "link": "غير مرفوع" },
+            "problem_10": { "name": "المسألة 10", "type": "عنصر", "link": "غير مرفوع" }
+          }
+        }
+      }
+    },
+    "exponential_functions": {
+      "name": "الدوال الأسية",
+      "lessons": {
+        "introduction": {
+          "name": "تمهيد",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "equations": {
+          "name": "المعادلات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "inequalities": {
+          "name": "المتراجحات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "limits": {
+          "name": "حساب النهايات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "derivative": {
+          "name": "المشتقة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "differential_equations": {
+          "name": "المعادلات التفاضلية",
+          "elements": {
+            "lesson": {
+              "name": "الدرس ",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "exponential_problems": {
+      "name": "مسائل الدوال الأسية",
+      "lessons": {
+        "problems": {
+          "name": "",
+          "elements": {
+            "problem_1": {
+              "name": "المسألة 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_2": {
+              "name": "المسألة 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_3": {
+              "name": "المسألة 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_4": {
+              "name": "المسألة 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_5": {
+              "name": "المسألة 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_6": {
+              "name": "المسألة 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_7": {
+              "name": "المسألة 7",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_8": {
+              "name": "المسألة 8",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_9": {
+              "name": "المسألة 9",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_10": {
+              "name": "المسألة 10",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_11": {
+              "name": "المسألة 11",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_12": {
+              "name": "المسألة 12",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_13": {
+              "name": "المسألة 13",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_14": {
+              "name": "المسألة 14",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_15": {
+              "name": "المسألة 15",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_16": {
+              "name": "المسألة 16",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_17": {
+              "name": "المسألة 17",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_18": {
+              "name": "المسألة 18",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_19": {
+              "name": "المسألة 19",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_20": {
+              "name": "المسألة 20",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "logarithmic_functions": {
+      "name": "الدوال اللوغارتمية",
+      "lessons": {
+        "introduction": {
+          "name": "تمهيد",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "equations": {
+          "name": "المعادلات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "inequalities": {
+          "name": "المتراجحات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "systems": {
+          "name": "جمل معادلات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "limits": {
+          "name": "حساب النهايات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "derivative": {
+          "name": "المشتقة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "decimal_logarithm": {
+          "name": "اللوغاريتم العشري",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "logarithmic_problems": {
+      "name": "مسائل الدوال اللوغارتمية",
+      "lessons": {
+        "problems": {
+          "name": "",
+          "elements": {
+            "problem_1": {
+              "name": "المسألة 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_2": {
+              "name": "المسألة 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_3": {
+              "name": "المسألة 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_4": {
+              "name": "المسألة 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_5": {
+              "name": "المسألة 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_6": {
+              "name": "المسألة 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_7": {
+              "name": "المسألة 7",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_8": {
+              "name": "المسألة 8",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_9": {
+              "name": "المسألة 9",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_10": {
+              "name": "المسألة 10",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_11": {
+              "name": "المسألة 11",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_12": {
+              "name": "المسألة 12",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_13": {
+              "name": "المسألة 13",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_14": {
+              "name": "المسألة 14",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_15": {
+              "name": "المسألة 15",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_16": {
+              "name": "المسألة 16",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_17": {
+              "name": "المسألة 17",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_18": {
+              "name": "المسألة 18",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_19": {
+              "name": "المسألة 19",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "problem_20": {
+              "name": "المسألة 20",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "exponential_base_any": {
+      "name": "الدالة الأسية ذات الأساس الكيفي",
+      "lessons": {
+        "lesson": {
+          "name": "",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "nth_root": {
+      "name": "الجذر النوني",
+      "lessons": {
+        "lesson": {
+          "name": "",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "counting": {
+      "name": "العد",
+      "lessons": {
+        "introduction": {
+          "name": "مدخل",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "binomial_expansion": {
+          "name": "نشر ثنائي الحد",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "probability": {
+      "name": "الاحتمالات",
+      "lessons": {
+        "introduction": {
+          "name": "مدخل",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "rules": {
+          "name": "قواعد حساب الاحتمالات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "law": {
+          "name": "قانون الاحتمال",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "conditional": {
+          "name": "الاحتمال الشرطي",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "tree": {
+          "name": "شجرة الاحتمالات",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "probability_exercises": {
+      "name": "تمارين الاحتمالات",
+      "lessons": {
+        "drawing_balls": {
+          "name": "سحب الكريات",
+          "elements": {
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_7": {
+              "name": "التمرين 7",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_8": {
+              "name": "التمرين 8",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_9": {
+              "name": "التمرين 9",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_10": {
+              "name": "التمرين 10",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_11": {
+              "name": "التمرين 11",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_12": {
+              "name": "التمرين 12",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_13": {
+              "name": "التمرين 13",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_14": {
+              "name": "التمرين 14",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_15": {
+              "name": "التمرين 15",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_16": {
+              "name": "التمرين 16",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_17": {
+              "name": "التمرين 17",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_18": {
+              "name": "التمرين 18",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_19": {
+              "name": "التمرين 19",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_20": {
+              "name": "التمرين 20",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "forming_committees": {
+          "name": "تشكيل اللجان",
+          "elements": {
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_7": {
+              "name": "التمرين 7",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_8": {
+              "name": "التمرين 8",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_9": {
+              "name": "التمرين 9",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_10": {
+              "name": "التمرين 10",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "probability_tree": {
+          "name": "شجرة الاحتمالات",
+          "elements": {
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_7": {
+              "name": "التمرين 7",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_8": {
+              "name": "التمرين 8",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_9": {
+              "name": "التمرين 9",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_10": {
+              "name": "التمرين 10",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_11": {
+              "name": "التمرين 11",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_12": {
+              "name": "التمرين 12",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_13": {
+              "name": "التمرين 13",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_14": {
+              "name": "التمرين 14",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_15": {
+              "name": "التمرين 15",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "sequences": {
+      "name": "المتتاليات",
+      "lessons": {
+        "introduction": {
+          "name": "مدخل",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "arithmetic": {
+          "name": "المتتاليات الحسابية",
+          "elements": {
+            "definition": {
+              "name": "تعريف",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "recursive_formula": {
+              "name": "العبارة التراجعة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "explicit_formula": {
+              "name": "عبارة الحد العام",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "arithmetic_mean": {
+              "name": "الوسط الحسابي",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "sum": {
+              "name": "المجموع",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "geometric": {
+          "name": "المتتاليات الهندسية",
+          "elements": {
+            "definition": {
+              "name": "تعريف",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "recursive_formula": {
+              "name": "العبارة التراجعة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "explicit_formula": {
+              "name": "عبارة الحد العام",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "geometric_mean": {
+              "name": "الوسط الهندسي",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "sum": {
+              "name": "المجموع",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "variations": {
+          "name": "اتجاه التغير",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "mathematical_induction": {
+          "name": "البرهان بالتراجع",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "convergence": {
+          "name": "التقارب",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "adjacency": {
+          "name": "التجاور",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "sequence_exercises": {
+      "name": "تمارين المتتاليات",
+      "lessons": {
+        "problems": {
+          "name": "",
+          "elements": {
+            "exercise_1": {
+              "name": "التمرين 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_2": {
+              "name": "التمرين 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_3": {
+              "name": "التمرين 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_4": {
+              "name": "التمرين 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_5": {
+              "name": "التمرين 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_6": {
+              "name": "التمرين 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_7": {
+              "name": "التمرين 7",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_8": {
+              "name": "التمرين 8",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_9": {
+              "name": "التمرين 9",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_10": {
+              "name": "التمرين 10",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_11": {
+              "name": "التمرين 11",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_12": {
+              "name": "التمرين 12",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_13": {
+              "name": "التمرين 13",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_14": {
+              "name": "التمرين 14",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_15": {
+              "name": "التمرين 15",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_16": {
+              "name": "التمرين 16",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_17": {
+              "name": "التمرين 17",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_18": {
+              "name": "التمرين 18",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_19": {
+              "name": "التمرين 19",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercise_20": {
+              "name": "التمرين 20",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "antiderivatives": {
+      "name": "الدوال الأصلية",
+      "lessons": {
+        "familiar_functions": {
+          "name": "الدوال الأصلية لدوال مألوفة",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "examples": {
+              "name": "أمثلة",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "composite_functions": {
+          "name": "الدوال الأصلية لدوال المركبة",
+          "elements": {
+            "case_1": {
+              "name": "الحالة 1",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "case_2": {
+              "name": "الحالة 2",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "case_3": {
+              "name": "الحالة 3",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "case_4": {
+              "name": "الحالة 4",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "case_5": {
+              "name": "الحالة 5",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "case_6": {
+              "name": "الحالة 6",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    },
+    "integration": {
+      "name": "التكاملات",
+      "lessons": {
+        "calculation": {
+          "name": "الحساب التكاملي",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "linearity": {
+          "name": "الخواص الخطية",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
+            "exercises": {
+              "name": "التمارين",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        },
+        "order_properties": {
+          "name": "خواص الترتيب",
+          "elements": {
+            "lesson": {
+              "name": "الدرس",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            }
+          }
+        }
+      }
+    }
+  }
+}
