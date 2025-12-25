@@ -66,7 +66,11 @@
               "type": "عنصر",
               "link": "غير مرفوع"
             },
-           
+            "axis_of_symmetry": {
+              "name": "محور التناظر",
+              "type": "عنصر",
+              "link": "غير مرفوع"
+            },
             "rational_functions_decomposition": {
               "name": "تفكيك الدوال الناطقة",
               "type": "عنصر",
@@ -1909,3 +1913,4 @@
   }
 
 }
+
